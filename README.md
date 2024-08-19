@@ -1,7 +1,7 @@
 # Ad_Hoc_Request_Analysis
 This project is part of the Data Analytics Bootcamp at Codebasics.
 
-
+## Youtube presentation video: https://youtu.be/zaJ8OybVyUs
 # Project Overview
 This repository contains the code and SQL queries used for the Consumer Goods domain segment of the Data Analytics Bootcamp at Codebasics. The project involves working with a dataset related to consumer goods, specifically from "AtliQ Hardwares," a leading global hardware company specializing in PCs, printers, mice, and computers. The primary objective is to address ten specific ad hoc requests using SQL queries.
 
